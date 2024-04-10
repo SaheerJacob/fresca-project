@@ -1,0 +1,10 @@
+/* styles.css */
+.restaurant-button {
+    -fx-background-color: #FF6347; /* Coral */
+}
+
+.take-away-button {
+    -fx-background-color: #7FFFD4; /* Aquamarine */
+}
+
+/* Add more button styles as needed */
